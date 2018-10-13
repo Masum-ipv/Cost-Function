@@ -4,7 +4,7 @@ Implementation of cost function with gradient descent (Python, Tensorflow)
 ![alt text](https://cdn-images-1.medium.com/max/800/1*0MUSQabL9Jae_hP2y5C4yg.png)
 
 ### Output :
-
+```sh
 --------------- Gradient Descent with Python -----------------------------
 Iteration 0: X= 25.000000 Y= 35.000000 Z= 3200.000000
 Iteration 100: X= 0.639677 Y= 1.541862 Z= 4.418838
@@ -17,10 +17,10 @@ Iteration 700: X= 0.000000 Y= 0.000000 Z= 0.000000
 Iteration 800: X= 0.000000 Y= 0.000000 Z= 0.000000
 Iteration 900: X= 0.000000 Y= 0.000000 Z= 0.000000
 Final Gradient Descent: X= 0.000000 Y= 0.000000 Z= 0.000000
+```
+![Plot](https://github.com/Masum-ipv/Cost-Function/blob/develop/plot.png)
 
-![Plot]()
-
-
+```sh
 --------------- Gradient Descent with Tensorflow -----------------------------
 Iteration 0: X= 25.000000 Y= 35.000000 Z= 3200.000000
 Iteration 100: X= 0.626844 Y= 1.522830 Z= 4.300604
@@ -32,6 +32,6 @@ Iteration 600: X= 0.000000 Y= 0.000000 Z= 0.000000
 Iteration 700: X= 0.000000 Y= 0.000000 Z= 0.000000
 Iteration 800: X= 0.000000 Y= 0.000000 Z= 0.000000
 Iteration 900: X= 0.000000 Y= 0.000000 Z= 0.000000
-
+```
 #### Resources:
 * https://medium.com/@rrfd/what-is-a-cost-function-gradient-descent-examples-with-python-16273460d634
